@@ -5,7 +5,7 @@ $ apt install anacron logwatch chrony postfix
 
 # Tools
 ```sh
-$ apt install tree aptitude mailutils htop glances dnstracer tree ipcalc jq 
+$ apt install tree aptitude mailutils htop glances dnstracer tree ipcalc jq iperf3
 ```
 
 # Security
