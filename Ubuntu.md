@@ -13,7 +13,7 @@ $ apt install tree aptitude mailutils htop glances dnstracer tree ipcalc jq iper
 $ apt install fail2ban portsentry nmap netcat
 ```
 
-# Web
+# Web & Mail
 ```
 $ add-apt-repository ppa:ondrej/nginx
 $ apt update
